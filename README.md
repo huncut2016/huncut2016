@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is András Zoller! I am a very ambitious 17-year-old student, who wants to be either a data scientist or a researcher.
+My name is András Zoller! I am a very ambitious 18-year-old student, who wants to be either a data scientist or a researcher.
 My holy grail is making the world more livable and easier. Not least, my philosophy is rooted in open-source software, 
 therefore I love 🐧[Linux](https://en.wikipedia.org/wiki/Linux)!
 
