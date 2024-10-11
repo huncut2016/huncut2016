@@ -3,5 +3,5 @@
 My holy grail is making the world more livable and easier. Not least, my philosophy is rooted in open-source software, 
 therefore I love 🐧[Linux](https://en.wikipedia.org/wiki/Linux)!-->
 
-- 🌱 I’m currently learning in high school
+- 🌱 I’m currently learning at the [University of Groningen](https://www.rug.nl)
 - 📫 How to reach me: <zoller.andras2005@gmail.com>
